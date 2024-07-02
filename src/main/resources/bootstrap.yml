@@ -7,6 +7,8 @@ spring:
     nacos:
       discovery:
         server-addr: 101.43.39.100:8849
+        namespace: 4a86feba-9c35-4a89-96e8-e524f4758ea0
       config:
         server-addr: 101.43.39.100:8849
         file-extension: yml
+        namespace: 4a86feba-9c35-4a89-96e8-e524f4758ea0
